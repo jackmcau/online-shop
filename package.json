@@ -1,0 +1,20 @@
+{
+  "name": "online-shop",
+  "version": "1.0.0",
+  "description": "Project to show off knowledge of React, PostgreSQL, Docker and Node as a basis for a modern store website",
+  "homepage": "https://github.com/jackmcau/online-shop#readme",
+  "bugs": {
+    "url": "https://github.com/jackmcau/online-shop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackmcau/online-shop.git"
+  },
+  "license": "MIT",
+  "author": "jackmcau",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
